@@ -1,6 +1,3 @@
-from re import A
-
-
 def double(s):
     a = ""
     for i in s:
